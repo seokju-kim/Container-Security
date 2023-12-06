@@ -1,0 +1,11 @@
+cloudOne: 
+    apiKey: 2U6NMLDl42Kbl8roN8p0WIugcnu
+    endpoint: https://container.sg-1.cloudone.trendmicro.com
+    exclusion: 
+        namespace: []
+    runtimeSecurity:
+        enabled: true
+    vulnerabilityScanning:
+        enabled: true
+    inventoryCollection:
+        enabled: true
